@@ -1,5 +1,4 @@
 # Python_stuffs-
-Repo for some scripting GIS features in Python 
-This repository contains some scripts for manipulating GIS features using Python
-Some of the scripts demonstrate how we can create our own Geojson feature 
-Geojson is a spatial extension for json data 
+This repo contains all of my python scripts.
+It can be used in GIS project or globally in a IT project.
+Feel free to use it if you need it.
