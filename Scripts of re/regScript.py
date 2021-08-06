@@ -63,5 +63,3 @@ def transform_multipolygon_to_polygon(geom):
     output = re.sub(r'MULTIPOLYGON\(', 'POLYGON', geom)
     result = re.sub(r'\)+,\({2}', ',', output)
     return result[:len(result)-1]  # delete the last ) of the geom
-
-
